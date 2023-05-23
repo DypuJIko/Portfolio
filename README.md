@@ -4,7 +4,7 @@
 <a href="https://github.com/DypuJIko" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/ru/users/529307/komissarov-andrey" target="_blank">
+<a href="https://ru.stackoverflow.com/users/529307/komissarov-andrey" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
   
@@ -18,7 +18,7 @@
 <br/>  
 
 
-## Rapidfire  
+  
 <table><tr><td valign="top" width="50%">
 
 - 🏁 Завершил стажировку по аналитике данных  
@@ -27,7 +27,9 @@
 - 👨‍💼 Активно ищу работу  
   
 
-- 💬 Как со мной связаться [example link text](http://example/com)  
+- 💬 Как со мной связаться <a href="https://ru.stackoverflow.com/users/529307/komissarov-andrey" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>    
 
 
 </td><td valign="top" width="50%">
